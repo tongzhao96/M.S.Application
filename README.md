@@ -76,7 +76,7 @@ https://www.business.rutgers.edu/information-technology-analytics
 
 ---
 ### UVA -MS in  DS
-**Fall 2020: Jan.9 2020**.  
+**Fall 2020: Jan.9 2020** 
 code 5820
 Application Requirements.  
 GRE General: Strongly recommended.  
@@ -111,43 +111,11 @@ Why will you succeed in the program?
 What will you do/accomplish once you have completed the program?  
 Two [2] official Letters of Recommendation – one must be from a faculty member who is familiar with the candidate’s scholarly abilities: 
 http://www.cis.upenn.edu/prospective-students/graduate/mcit.php
-### Upenn -MCIT/SCMP/DATS
-**Fall 2020: Nov.15/March.15 2020**.
-The institution code to use for the GRE exam is 2888.  
-Biographical information (part of the online application);
-Resume.  
-Personal Statement – we recommend the following guidelines for the personal statement: 
-No more than two pages in a readable font/size:
-Use answers to the following questions to guide your writing; please provide detailed and specific examples from academia, industry or research when possible: 
-Why are you interested in this program?
-What have you done that makes you a great candidate?
-How will you benefit from the program?
-How do you plan to contribute to the student community in SEAS while you’re here?
-Why will you succeed in the program?
-What will you do/accomplish once you have completed the program?  
-Two [2] official Letters of Recommendation – one must be from a faculty member who is familiar with the candidate’s scholarly abilities: 
-http://www.cis.upenn.edu/prospective-students/graduate/mcit.php
-### Upenn -MCIT/SCMP/DATS
-**Fall 2020: Nov.15/March.15 2020**.
-The institution code to use for the GRE exam is 2888.  
-Biographical information (part of the online application);
-Resume.  
-Personal Statement – we recommend the following guidelines for the personal statement: 
-No more than two pages in a readable font/size:
-Use answers to the following questions to guide your writing; please provide detailed and specific examples from academia, industry or research when possible: 
-Why are you interested in this program?
-What have you done that makes you a great candidate?
-How will you benefit from the program?
-How do you plan to contribute to the student community in SEAS while you’re here?
-Why will you succeed in the program?
-What will you do/accomplish once you have completed the program?  
-Two [2] official Letters of Recommendation – one must be from a faculty member who is familiar with the candidate’s scholarly abilities: 
-http://www.cis.upenn.edu/prospective-students/graduate/mcit.php
 
 ---
 ### BU MS-DC(data computing)/MS-AI
 **Fall 2020: Jan.15/May.1 2020**.
-The institution code to use for the GRE exam is 2888.  
+ 
 Transcripts.  
 Three recommendations.  
 Personal statement/statement of purpose.  
@@ -155,11 +123,27 @@ Official GRE General Test score report
 http://www.bu.edu/cs/masters/admissions/ai/
 
 ---
-### BU MS-DC(data computing)/MS-AI
-**Fall 2020: Jan.15/May.1 2020**.
-The institution code to use for the GRE exam is 2888.  
-Transcripts.  
-Three recommendations.  
-Personal statement/statement of purpose.  
-Official GRE General Test score report
-http://www.bu.edu/cs/masters/admissions/ai/
+### Rochester MS-DS
+**Fall 2020: Jan.5/Apr.15 2020**.
+ Institution code is 2928.  
+Unofficial transcripts in English or with a certified English translation .  
+Three letters of recommendations.  
+Statement of purpose* 
+*The Statement of Purpose should clearly describe your reasons for applying to the University of Rochester, your preparation for the field of study, your study and research interests, future career plans, and other aspects of your background and interests that may aid the Admissions Committee in evaluating your aptitude and motivation for graduate study. Most statements are one to three pages. Statements that are succinct are appreciated. 
+Resume/CV.  
+TOEFL/IELTS score if required
+http://www.sas.rochester.edu/dsc/graduate/apply.html
+
+---
+### UCI MS-Informatics// MS of CS
+**Fall 2020: Jan.5/Apr.15 2020**.
+ Institution code is 2928.  
+Unofficial transcripts in English or with a certified English translation .  
+Three letters of recommendations.  
+Statement of purpose* 
+*The Statement of Purpose should clearly describe your reasons for applying to the University of Rochester, your preparation for the field of study, your study and research interests, future career plans, and other aspects of your background and interests that may aid the Admissions Committee in evaluating your aptitude and motivation for graduate study. Most statements are one to three pages. Statements that are succinct are appreciated. 
+Resume/CV.  
+TOEFL/IELTS score if required
+http://www.sas.rochester.edu/dsc/graduate/apply.html
+
+---
