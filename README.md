@@ -86,3 +86,7 @@ Statement of Purpose
 This should explain how the MSDS program fits into your short- and long-term educational and career goals. (500 word limit.)   
 Two letters of recommendation should be submitted electronically through the online system. Once you have saved the contact information for a particular reference within the online application, that individual will receive instructions via email for submitting a letter of recommendation on your behalf. It is preferable (but not required) for at least one letter to be from an individual with substantial knowledge of your academic accomplishments.
 https://datascience.virginia.edu/degrees/info/application-details
+---
+### JHU -MS in DS
+**Fall 2020: Jan.9 2020 **. 
+NOTE: GRE scores are not required, but you are encouraged to submit them if you have them.
