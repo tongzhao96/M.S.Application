@@ -13,6 +13,18 @@ Personal Statement (Required): The personal statement should succinctly describe
 Letters of Recommendation (2 Highly Recommended): Letters of recommendation should be from faculty or others (supervisors, professional colleagues, etc.) qualified to evaluate your potential for graduate study.
 https://viterbigradadmission.usc.edu/programs/masters/msprograms/data-science/ms-applied-data-science/
 
+MS-BA
+Round 1 – November 25, 2018 (notification by December 21, 2018)
+Round 2 – January 20, 2019 (notification by February 15, 2019) (Priority Housing Deadline)Submitted online application
+Resume
+Personal statement (included with the online application process)
+One letter of recommendation (included with the online application process)
+1-minute video of yourself (included with the online application process)
+A nonrefundable application fee (waived for current USC students, USC staff, and USC alumni)
+Official test scores (GRE or GMAT, and if applicable TOEFL or IELTS) from the testing service
+One sealed official transcript from the registrar of each college or university attended except for USC. If all college or postgraduate work has not been completed, transcripts must be sent again when work in progress is completed and the degree is posted. Transcripts written in languages other than English must be accompanied by a certified English translation. It is recommended that you submit your academic records after you have submitted your online application and have received your USC ID number. Including your USC ID number with your mailed documents will expedite their processing.
+https://www.marshall.usc.edu/programs/specialized-masters-programs/master-science-business-analytics/admissions
+
 ---
 ### University of Columbia -MS in  DS
 **Fall 2020: Feb.15 2020**.  
@@ -22,13 +34,21 @@ Columbia Engineering's code is 2111
 Online application
 Uploaded transcripts from every post-secondary institution attended.  
 Three recommendation letters.  
-Personal statement.  
+Personal statement.  There is no minimum or maximum length for the personal statement. Brevity is preferred. The statement serves as both a writing sample and opportunity for you to explain why you are applying, what makes you a good fit, and anything that may be unclear elsewhere on your application.  
 Curriculum vitae / resumé
 Official *Graduate Record Examination (GRE) general test scores
   (*GMAT may not replace the GRE test requirement)
 $85 non-refundable application fee
 TOEFL, IELTS or PTE Academic test scores, if applicable
 https://datascience.columbia.edu/master-of-science-in-data-science
+## MS IN BA
+Official transcript copies from every post-secondary institution attended
+Three recommendation letters
+Standardized Tests: Official Graduate Record Examination (GRE) General Test Scores*; TOEFL, IELTS, or PTE if applicable
+Personal statement
+Resumé or Curriculum Vitae
+An interview may be requested
+https://gradengineering.columbia.edu/graduate-admissions/application-requirements
 
 ---
 ### Northeasten -MS in  DS/ Information Systems
