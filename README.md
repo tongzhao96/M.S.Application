@@ -196,3 +196,4 @@ Video interview, accessed through the online application. You will receive an em
 Preparation and Fit:  
 The graduation requirements for the Masters program are based on the assumption that entering students have a foundation in technical, social science, and human-centered systems areas. An ideal incoming student will have solid writing skills, computing experience with some proficiency in a high-level programming language and an understanding of web technologies, good analytical skills, an understanding of the human/cognitive facet of information systems, and a mathematical foundation that includes calculus, probability, statistics, and linear algebra.
 Exceptional students from related backgrounds who do not meet the basic requirements for the program are encouraged to apply.
+EXPERIENCE: https://www.douban.com/note/711194170/
