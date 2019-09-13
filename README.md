@@ -182,7 +182,7 @@ Applicants are advised to submit two letters of recommendation.  Recommenders sh
 Competitive applicants will be invited to complete a pre-recorded interview via an online platform.  Invited applicants should expect to answer a small series of personal and professional questions designed to assess their knowledge of the Cornell Tech curriculum and whether or not their goals align with the mission of our master’s programs.
 A small percentage of our interviewees may also be asked to complete an online technical assessment designed to test their foundation in programming and advanced mathematics.
 Note: the admissions committee will not provide interviewees with the question-set ahead of time and we cannot answer any questions related to the content of the interview prior to its completion.
-https://tech.cornell.edu/admissions/
+https://tech.cornell.edu/programs/masters-programs/master-in-operations-research-and-information-engineering/
 
 ---
 ### Cornell- MS of Professional Studies- ITHACA /Information Science
