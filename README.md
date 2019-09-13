@@ -149,8 +149,7 @@ http://www.bu.edu/cs/masters/admissions/ai/
 Unofficial transcripts in English or with a certified English translation .  
 Three letters of recommendations.  
 Statement of purpose* 
-*The Statement of Purpose should clearly describe your reasons for applying to the University of Rochester, your preparation for the field of study, your study and research interests, future career plans, and other aspects of your background and interests that may aid the Admissions Committee in evaluating your aptitude and motivation for graduate study. Most statements are one to three pages. Statements that are succinct are appreciated. 
-Resume/CV.  
+*The Statement of Purpose should clearly describe your reasons for applying to the University of Rochester, your preparation for the field of study, your study and research interests, future career plans, and other aspects of your background and interests that may aid the Admissions Committee in evaluating your aptitude and motivation for graduate study. Most statements are one to three pages. Statements that are succinct are appreciated. Resume/CV.  
 TOEFL/IELTS score if required
 http://www.sas.rochester.edu/dsc/graduate/apply.html
 
@@ -167,3 +166,33 @@ TOEFL/IELTS score if required
 http://www.sas.rochester.edu/dsc/graduate/apply.html
 
 ---
+### CORNELL MS of Engineering-Operations Research and Information Engineering
+Cornell University’s institution code 2098.   
+Round 1 Deadline: Tuesday, December 3, 2019 at 11:59 PM EST. 
+Round 2 Deadline: Friday, January 24, 2020 at 11:59 PM EST. 
+To be considered, all applicants must provide the following in their online application:
+Résumé.  
+You must submit a current résumé along with your application.  
+Personal Statement.  
+Here at Cornell Tech, you will be part of an environment where creativity, technical depth and leadership share seats at the table. We value expressions of who you are and what you add to this formula. Please submit a one- to two-page statement that describes your interest in this program at Cornell Tech. Your submission should highlight personal experiences that demonstrate your creativity, leadership and technical abilities.
+In particular, feel free to elaborate on technical projects you have completed, their creative and technical aspects; any entrepreneurial or leadership experiences; your professional career goals; the benefit you envision being part of the tech ecosystem in New York City; and, why this program is the one for you.
+Letter of Recommendation.  
+Applicants are advised to submit two letters of recommendation.  Recommenders should be faculty members, supervisors, or other individuals who know the applicant professionally and/or academically.  Ideally, the recommenders should either be able to speak to the applicant’s performance in relevant technical coursework or they should be able to discuss the applicant’s role in substantial projects. Recommendations must be submitted online via our application system. If you believe a third letter will add value to your candidacy, you may include one additional letter.  
+
+Competitive applicants will be invited to complete a pre-recorded interview via an online platform.  Invited applicants should expect to answer a small series of personal and professional questions designed to assess their knowledge of the Cornell Tech curriculum and whether or not their goals align with the mission of our master’s programs.
+A small percentage of our interviewees may also be asked to complete an online technical assessment designed to test their foundation in programming and advanced mathematics.
+Note: the admissions committee will not provide interviewees with the question-set ahead of time and we cannot answer any questions related to the content of the interview prior to its completion.
+https://tech.cornell.edu/admissions/
+
+---
+### Cornell- MS of Professional Studies- ITHACA /Information Science
+The deadline for Fall admissions is January 15, 2020.  
+Two letters of recommendation.  
+Statement of purpose.  
+Resume (optional).  
+Transcripts for all undergraduate institutions you've attended. We require scanned copies attached to your online application. Only admitted students are required to submit official transcripts by mail.  
+General GRE test scores. You must have ETS report your scores directly to the Graduate School (institution code 2098). There is no subject test required.  
+Video interview, accessed through the online application. You will receive an email containing the link to the interview session after you submit the application.  https://infosci.cornell.edu/masters/mps/admissions
+Preparation and Fit:  
+The graduation requirements for the Masters program are based on the assumption that entering students have a foundation in technical, social science, and human-centered systems areas. An ideal incoming student will have solid writing skills, computing experience with some proficiency in a high-level programming language and an understanding of web technologies, good analytical skills, an understanding of the human/cognitive facet of information systems, and a mathematical foundation that includes calculus, probability, statistics, and linear algebra.
+Exceptional students from related backgrounds who do not meet the basic requirements for the program are encouraged to apply.
